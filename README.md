@@ -1,2 +1,3 @@
 # C-Programming-Q15
- C-Programming
+
+![alt text](https://github.com/flashomer/C-Programming-Q15/blob/main/img/screen.jpg?raw=true)
